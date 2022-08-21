@@ -1,6 +1,6 @@
 # Solutions
 
-This repository will store my solutions to problems from coding challenge websites like Exercism, Leetcode, and Advent of Code. My goal (as of July 2022) is to consistently complete 1-2 challenges each day using Python or Go.
+This repository will store my solutions to problems from coding challenge websites like Exercism, Leetcode, and Advent of Code.
 
 ## Getting Started
 
